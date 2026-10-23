@@ -1,0 +1,19 @@
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# SQL Server backup files
+*.bak
+
+# Python files (if used for data cleaning)
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Large datasets - uncomment if you don't want to upload CSV files
+# data/*.csv
